@@ -1,0 +1,103 @@
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.exe.config
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.exe
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.pdb
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.xml
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\bin\Debug\Guna.UI.dll
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\bin\Debug\Guna.UI2.dll
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Admin.resources
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Dashboard.resources
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Login.resources
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Resources.resources
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Seller.resources
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.vbproj.GenerateResource.Cache
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.exe
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.xml
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.pdb
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Stock_Details.resources
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.exe.licenses
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Splash.resources
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\bin\Debug\Bunifu.Licensing.dll
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Billing_Statement.resources
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Item_Entry.resources
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Employee_Details.resources
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Manage_Order.resources
+E:\Nustha\Education Work\2nd Year\Visual Basic\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Seller_Dash.resources
+E:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.exe.config
+E:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.exe
+E:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.pdb
+E:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.xml
+E:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Bunifu.Licensing.dll
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.vbproj.AssemblyReference.cache
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Admin.resources
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Seller_Dash.resources
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Dashboard.resources
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Login.resources
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Resources.resources
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Seller.resources
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Splash.resources
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.vbproj.GenerateResource.cache
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.exe.licenses
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.vbproj.CoreCompileInputs.cache
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.vbproj.CopyComplete
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.exe
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.xml
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.pdb
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.ItemEntry.resources
+E:\A\Furniture Shop System\Furniture Shop System\bin\Debug\MySql.Data.dll
+E:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Stock_Details.resources
+L:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.exe.config
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.exe
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.xml
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.pdb
+L:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.exe
+L:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.pdb
+L:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.xml
+L:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Guna.UI.dll
+L:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Guna.UI2.dll
+L:\A\Furniture Shop System\Furniture Shop System\bin\Debug\MySql.Data.dll
+L:\A\Furniture Shop System\Furniture Shop System\bin\Debug\Bunifu.Licensing.dll
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.vbprojResolveAssemblyReference.cache
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Admin.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.ItemEntry.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Seller_Dash.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Dashboard.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Login.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Resources.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Seller.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Splash.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Stock_Details.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.vbproj.GenerateResource.Cache
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.exe.licenses
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Employee_Details.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Manage_Order.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Billing.resources
+L:\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Billing_Statement.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.exe.config
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.exe
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.xml
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.pdb
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.vbprojResolveAssemblyReference.cache
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Admin.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Billing.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Billing_Statement.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Employee_Details.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.ItemEntry.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Manage_Order.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Seller_Dash.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Dashboard.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Login.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Resources.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Seller.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Splash.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture_Shop_System.Stock_Details.resources
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.vbproj.GenerateResource.Cache
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\obj\Debug\Furniture Shop System.exe.licenses
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.exe
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.pdb
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\bin\Debug\Furniture Shop System.xml
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\bin\Debug\Guna.UI.dll
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\bin\Debug\Guna.UI2.dll
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\bin\Debug\MySql.Data.dll
+E:\Nustha\Education Work\2nd Year\A\Furniture Shop System\Furniture Shop System\bin\Debug\Bunifu.Licensing.dll
